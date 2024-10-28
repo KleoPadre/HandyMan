@@ -6,6 +6,8 @@
 
 HandyMan is a desktop application designed to help you manage and organize your photos and videos efficiently. It provides features to move short videos and screenshots to designated folders.
 
+For a detailed description of the project, please refer to the [DESCRIPTION.md](DESCRIPTION.md).
+
 ## Features
 
 - **Move Short Videos**: Automatically move videos shorter than 3 seconds to a specified destination folder. These short videos are often created from Live Photos on iPhones.
