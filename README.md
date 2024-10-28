@@ -10,8 +10,7 @@ HandyMan is a desktop application designed to help you manage and organize your 
 
 - **Move Short Videos**: Automatically move videos shorter than 3 seconds to a specified destination folder. These short videos are often created from Live Photos on iPhones.
 - **Move Screenshots**: Identify and move screenshots based on EXIF data to a specified destination folder.
-- **Organize by Date**: Organize photos and videos into folders by their creation date.
-
+  
 ## Requirements
 
 - Python 3.8 or higher
