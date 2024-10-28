@@ -1,3 +1,7 @@
+![Снимок экрана 2024-10-28 в 23 55 02](https://github.com/user-attachments/assets/2018ca09-13b7-442c-b8d8-243cef524eb2)
+
+
+
 # HandyMan
 
 HandyMan is a desktop application designed to help you manage and organize your photos and videos efficiently. It provides features to move short videos and screenshots to designated folders, and organize files by date.
