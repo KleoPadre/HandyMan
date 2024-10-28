@@ -85,14 +85,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
 
-## Contact
-
-For any questions or feedback, please contact Levon Osipov at [your-email@example.com](mailto:your-email@example.com).
-
-## More Information
-
-For more information and updates, visit my GitHub profile: [KleoPadre](https://github.com/KleoPadre/HandyMan)
-
 ## Acknowledgments
 
 This application was developed with the assistance of GPT models, which provided guidance and support throughout the development process.
